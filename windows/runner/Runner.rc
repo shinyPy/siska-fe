@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "siska_fe" "\0"
+            VALUE "FileDescription", "siska" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "siska_fe" "\0"
+            VALUE "InternalName", "siska" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "siska_fe.exe" "\0"
-            VALUE "ProductName", "siska_fe" "\0"
+            VALUE "OriginalFilename", "siska.exe" "\0"
+            VALUE "ProductName", "siska" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

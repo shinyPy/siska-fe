@@ -1,6 +1,6 @@
 {
-    "name": "siska_fe",
-    "short_name": "siska_fe",
+    "name": "siska",
+    "short_name": "siska",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
